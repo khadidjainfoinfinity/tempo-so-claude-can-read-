@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403962672360",
+    "project_id": "novashop-ecc40",
+    "storage_bucket": "novashop-ecc40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403962672360:android:01bf053f38912b54eb455d",
+        "android_client_info": {
+          "package_name": "com.example.easyshoop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403962672360-hkt0m83mguhtlev7gg4crqejdfgo5tus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRZBeRPhqfUbcR1WhuSVZ9EMFeEPaFLWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403962672360-hkt0m83mguhtlev7gg4crqejdfgo5tus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
